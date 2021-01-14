@@ -1,0 +1,10 @@
+.input input,
+.txta-message textarea {
+  padding: 5px 15px;
+}
+input {
+  font-size: 1.2em;
+}
+.btn-submit {
+  cursor: pointer;
+}
